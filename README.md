@@ -2,9 +2,8 @@
 
 ### Uruchamianie algorytmu dla pojedynczego pliku:
 ```
-$ python inf145336_inf143919 test/xyz.wav
+$ python inf145336_inf143919 test/nazwa_pliku.wav
 ```
-##### xyz - nazwa pliku z rosszerzeniem ".wav"
 
 ### Uruchamianie algorytmu dla całego folderu:
 ```
