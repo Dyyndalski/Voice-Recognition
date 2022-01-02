@@ -22,3 +22,5 @@ $ python inf145336_inf143919.py Kasia.wav
 ```
 $ python inf145336_inf143919.py Kacper.wav
 ```
+
+Wyniki dla nagranych przez nas głosów są poprawne.
