@@ -14,13 +14,13 @@ $ python inf145336_inf143919.py folder nazwa_folderu
 
 ### Dźwięki nagrane dodatkowo: (do skopiowania):
 ```
-$ python inf145336_inf143919.py Janek.wav
+$ python inf145336_inf143919.py test/Janek.wav
 ```
 ```
-$ python inf145336_inf143919.py Kasia.wav
+$ python inf145336_inf143919.py test/Kasia.wav
 ```
 ```
-$ python inf145336_inf143919.py Kacper.wav
+$ python inf145336_inf143919.py test/Kacper.wav
 ```
 
 Wyniki dla nagranych przez nas głosów są poprawne.
